@@ -1,4 +1,4 @@
-alert("Red Trey")
+// alert("Red Trey")
 // Get a reference to the "bodyContainer" element (assuming it exists in your HTML)
 const bodyContainer = document.getElementById('bodyContainer');
 
