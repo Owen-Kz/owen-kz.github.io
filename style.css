@@ -158,7 +158,8 @@ Remove or comment-out the code block below to see how the browser will fall-back
     flex-direction:row;
     align-items: center;
     justify-content:space-around;
-    width:700px;
+    width:100%;
+	max-width: 700px;
     font-size:20px;
     padding:10px;
     color:#333333;
